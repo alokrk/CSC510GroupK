@@ -3,7 +3,7 @@ Repository for projects and deliverables for Group K in CSC 510 - Software Engin
 
 Feb 1 Report: http://tinyurl.com/sorecsys
 
-##March 1 Deliverlables:
+##March 1 Deliverables
 
 Solution 1: n-gram<br />
 Solution 2: Bayes Classifier<br />
@@ -18,16 +18,16 @@ Data frames for meta data have been completed in R. Normal data is being extract
 
 For content delivery, email forwarding system is being created. Along with the mail, we plan to add a feedback mechanism making it easier to collect feedback. A feedback form link can be embedded in the mail.
 
-##Issues:
+##Issues
 https://github.com/alokrk/csc510groupk/issues
 
-##Milestones:
+##Milestones
 https://github.com/alokrk/csc510groupk/milestones/
 
-##Contributors: 
+##Contributors
 https://github.com/alokrk/csc510groupk/graphs/contributors
 
-##Sample Telemetry Logs:
+##Sample Telemetry Logs
 https://github.com/alokrk/csc510groupk/tree/master/Telemetry
 
 Accuracy for each method has been calculated. Based on this, we will implement the solution. Depending on the user feedback for the output, we can continue with the implemented solution or tweak it as per user requirement.
