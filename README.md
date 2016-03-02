@@ -12,7 +12,7 @@ Solution 3: Random Forest<br />
 All three solutions have been coded in MATLAB. Inital idea was to code individual solution in MATLAB, R and Python and compare based on performance. But a user does not care about the performance at the backend, only the final output delivered. So, we decided on using MATLAB and expanded to three methods for classification.<br /> 
 Dataset used is a subset to understand the model accuracy. Upon deciding on the final method, algorithm will be coded in R due to its better data handling capacit.y
 
-https://github.com/alokrk/csc510groupk/tree/master/MATLAB<br />
+https://goo.gl/5esKwH<br />
 
 Data frames for meta data have been completed in R. Normal data is being extracted and should be ready for implementation.
 
@@ -30,9 +30,10 @@ https://github.com/alokrk/csc510groupk/graphs/contributors
 ##Sample Telemetry Logs
 https://github.com/alokrk/csc510groupk/tree/master/Telemetry
 
-Accuracy for each method has been calculated. Based on this, we will implement the solution. Depending on the user feedback for the output, we can continue with the implemented solution or tweak it as per user requirement.
+Accuracy for each method has been calculated. Based on this, we will implement the solution. Depending on the user feedback for the output, we can continue with the implemented solution or tweak it as per user requirement. 
 
 Google Form for User Feedback:
 http://tinyurl.com/h69v2cw
 
+The user feedback form consists of questions regarding the user experience and lets that rate on the grounds of content, design and overall quality on a scale of 1(Worst)-5(Best). This will help us identify the user sentiments and using this review train the algorithms for better results. A user suggestion/feedback box has also been provided for the user to share the detaiils.
 ###Demo Slot: Thursday 13:30
