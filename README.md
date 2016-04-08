@@ -7,6 +7,10 @@ Repository for projects and deliverables for Group K in CSC 510 - Software Engin
 
 ##April 1 Deliverables
 
+[Report] (https://github.com/alokrk/csc510groupk/blob/master/April/Final%20Report.pdf)
+
+[Slides] (https://github.com/alokrk/csc510groupk/blob/master/April/Presentation.pdf)
+
 [Issues] (https://github.com/alokrk/csc510groupk/issues)
 
 [Milestones] (https://github.com/alokrk/csc510groupk/milestones/)
